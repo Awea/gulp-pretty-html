@@ -1,0 +1,23 @@
+{
+  "name": "@awea/gulp-pretty-html",
+  "version": "1.0.0",
+  "private": false,
+  "main": "index.js",
+  "license": "GPL-3.0",
+  "description": "A simple gulp plugin to make HTML pretty",
+  "homepage": "https://github.com/Awea/gulp-pretty-html",
+  "author": "Awea <aweaoftheworld@gmail.com>",
+  "repository": "Awea/gulp-pretty-html",
+  "bugs": {
+    "url": "https://github.com/Awea/gulp-pretty-html/issues"
+  },
+  "dependencies": {
+    "pretty": "^2.0.0"
+  },
+  "keywords": [
+    "beautify",
+    "prettify",
+    "gulp",
+    "html"
+  ]
+}
