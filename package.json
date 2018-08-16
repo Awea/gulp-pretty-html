@@ -1,6 +1,6 @@
 {
   "name": "@awea/gulp-pretty-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "main": "index.js",
   "license": "GPL-3.0",
