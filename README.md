@@ -1,4 +1,6 @@
 # Gulp pretty HTML
+A simple Gulp plugin to make HTML pretty.
+
 ## Why?
 Sometimes you need to deliver pretty HTML. Since Jade became [Pug](https://pugjs.org/api/getting-started.html) the `pretty` option has been marked as deprecated. This small plugin intends to replace it.
 
